@@ -1,0 +1,15 @@
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.csproj.AssemblyReference.cache
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.AssemblyInfoInputs.cache
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.AssemblyInfo.cs
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.csproj.CoreCompileInputs.cache
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/bin/Debug/net7.0/Arrays_Deliverable_1
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/bin/Debug/net7.0/Arrays_Deliverable_1.deps.json
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/bin/Debug/net7.0/Arrays_Deliverable_1.runtimeconfig.json
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/bin/Debug/net7.0/Arrays_Deliverable_1.dll
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/bin/Debug/net7.0/Arrays_Deliverable_1.pdb
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.dll
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/refint/Arrays_Deliverable_1.dll
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.pdb
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/Arrays_Deliverable_1.genruntimeconfig.cache
+/Users/petertheobald/Projects/Arrays_Deliverable_1/Arrays_Deliverable_1/obj/Debug/net7.0/ref/Arrays_Deliverable_1.dll
